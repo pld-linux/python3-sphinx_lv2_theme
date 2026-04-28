@@ -1,13 +1,13 @@
 Summary:	A minimal static theme for Sphinx
 Summary(pl.UTF-8):	Minimalny statyczny motyw dla Sphinksa
 Name:		python3-sphinx_lv2_theme
-Version:	1.4.2
+Version:	1.4.6
 Release:	1
 License:	ISC
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx_lv2_theme/
 Source0:	https://files.pythonhosted.org/packages/source/s/sphinx_lv2_theme/sphinx_lv2_theme-%{version}.tar.gz
-# Source0-md5:	76a0a4be34713b93f8a04af4574df7ee
+# Source0-md5:	0785f7c0b6cc8134868846d4dddbc07e
 URL:		https://pypi.org/project/sphinx_lv2_theme/
 BuildRequires:	python3-modules >= 1:3.6
 BuildRequires:	python3-setuptools
